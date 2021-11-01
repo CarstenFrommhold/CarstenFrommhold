@@ -16,18 +16,21 @@ I am working as a **consultant data science** with a focus on **artificial intel
 - 🌱 I’m currently learning MLOps.
 - 👯 I’m looking to collaborate on analytics in sports.
 
-### Lets get connected!
+### Get in touch.
 
 [email]: mailto:carsten.frommhold@datadrivers.de
 [instagram]: https://www.instagram.com/CarstenFrommhold/
 [website]: https://www.datadrivers.de/
+[twitter]: https://twitter.com/carstenfr91
 
 
-[<img align="left" width="20px" src="https://img-premium.flaticon.com/png/512/542/premium/542638.png?token=exp=1631033301~hmac=1c28cda9909c55f8b4e8a6e93efa7869" />][email]
+[<img align="left" width="20px" src="https://cdn-icons.flaticon.com/png/512/542/premium/542689.png?token=exp=1635759843~hmac=ff71f05ab75cf0dc731e654077f8064c" />][email]
 
 [<img align="left" width="20px" src="https://cdn-icons-png.flaticon.com/512/66/66760.png" />][website]
 
 [<img align="left" width="20px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />][instagram]
+
+[<img align="left" width="20px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
 
 
 
