@@ -20,11 +20,11 @@ I am working as a **consultant data science** with a focus on **artificial intel
 
 [email]: mailto:carsten.frommhold@datadrivers.de
 [instagram]: https://www.instagram.com/CarstenFrommhold/
-[website]: https://www.datadrivers.de/
+[website]: https://www.carstenfrommhold.de
 [twitter]: https://twitter.com/carstenfr91
 
 
-[<img align="left" width="20px" src="https://cdn-icons.flaticon.com/png/512/542/premium/542689.png?token=exp=1635759843~hmac=ff71f05ab75cf0dc731e654077f8064c" />][email]
+[<img align="left" width="20px" src="https://cdn-icons-png.flaticon.com/128/1334/1334110.png" />][email]
 
 [<img align="left" width="20px" src="https://cdn-icons-png.flaticon.com/512/66/66760.png" />][website]
 
