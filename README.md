@@ -20,7 +20,7 @@ I am working as a **consultant data science** with a focus on **artificial intel
 
 [email]: mailto:carsten.frommhold@datadrivers.de
 [instagram]: https://www.instagram.com/carsten.frommhold/
-[website]: https://www.carstenfrommhold.de
+[website]: http://www.carstenfrommhold.de
 [twitter]: https://twitter.com/carstenfr91
 
 
