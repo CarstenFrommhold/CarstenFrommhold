@@ -5,6 +5,7 @@
 I am working as a **data science consultant** with a focus on **artificial intelligence** and **machine learning at scale**. In doing so, I oversee the entire chain of value creation which includes the conception and translation of relevant issues, modeling, implementation as well as the back translation and technical connection. With the proper linkage, insights gained via artificial intelligence become a competitive advantage.  
 
 ### I have worked on projects in the subject of
+
 * data mining and analysis on unbalanced panels
 * recommender systems
 * pricing
@@ -12,7 +13,7 @@ I am working as a **data science consultant** with a focus on **artificial intel
 * risk management
 
 ### Whats going on?
-- 🔭 I’m currently working on explotation steps in a recommender system.
+- 🔭 I’m currently working on a forecast to optimize SCM processes.
 - 🌱 I’m currently establishing best practices in MLOps.
 - 👯 I’m looking to collaborate on analytics in sports.
 
