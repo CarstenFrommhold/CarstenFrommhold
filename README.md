@@ -29,15 +29,16 @@ I am working as a **data science consultant** with a focus on **artificial intel
 [instagram]: https://www.instagram.com/carsten.frommhold/
 [website]: http://www.carstenfrommhold.de
 [twitter]: https://twitter.com/carstenfr91
+[linkedin]: https://www.linkedin.com/in/carsten-frommhold-ba86b2221/
 
 
 [<img align="left" width="20px" src="https://cdn-icons-png.flaticon.com/128/1334/1334110.png" />][email]
 
+[<img align="left" width="20px" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" />][linkedin]
+
 [<img align="left" width="20px" src="https://cdn-icons-png.flaticon.com/512/66/66760.png" />][website]
 
 [<img align="left" width="20px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />][instagram]
-
-[<img align="left" width="20px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
 
 
 
