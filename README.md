@@ -19,9 +19,13 @@ I am working as a **data science consultant** with a focus on **artificial intel
 
 ### I am blogging...
 
+#### ... about tech topics
+
 * ... on my [personal medium blog](https://medium.com/@carsten.frommhold).
-* ... on our [companys website](https://www.datadrivers.de/news/).
-* ... about one of my hobbies which is football on my [personal homepage](https://carstenfrommhold.de/), mostly in german.
+* ... on our [companys blog](https://blog.datadrivers.de/).
+
+#### ... about football 
+* ... on my [personal homepage](https://carstenfrommhold.de/) (mostly in german)
 
 ### Get in touch.
 
